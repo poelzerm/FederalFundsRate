@@ -39,3 +39,4 @@ This project explores how adjustments to the **Federal Funds Rate (FFR)** influe
 ---
 
 This project was part of a collaborative undergraduate research initiative focused on applying machine learning techniques to real-world economic challenges.
+Read the Paper: https://docs.google.com/document/d/10RzEx6FQFFsJZknk-eHnKSi0rMcf3Ug-hT9HHnjSBmQ/edit?usp=sharing
